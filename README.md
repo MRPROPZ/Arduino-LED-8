@@ -1,2 +1,8 @@
-Lesson Read Humidity Sensor change to binary and Open if value is 1.
-=============
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
